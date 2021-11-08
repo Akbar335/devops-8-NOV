@@ -1,0 +1,20 @@
+# pack-refs with: peeled fully-peeled sorted 
+c5c5761e58d2c0a032ae3aabbc96184ad8a43ae5 refs/heads/admin-page
+7196a3a201186e666c4bc711ac4d5b1329ed91b4 refs/heads/ardalis/3_x_migration
+553242d5f7c793bff307fdfa9eec311228a02858 refs/heads/ardalis/apis-and-updates
+57773f3efc4a5f00065c12627b42da50eecc702c refs/heads/catalog-viewmodel-service
+a0cfec094d5d455680ac4cb008fe15dc032fb073 refs/heads/dependabot/nuget/src/PublicApi/Microsoft.AspNetCore.Authentication.JwtBearer-5.0.9
+f58cd5aa17b6b4631e56b5da4a3799f499f7e197 refs/heads/dependabot/nuget/src/Web/Microsoft.AspNetCore.Authentication.JwtBearer-5.0.9
+f21c33d13433e34eed681e7bade4085c4adb72c2 refs/heads/feature/enh-powerplatform-integ
+6300f9c13421ae4ada770e7fc783bf76c99d2444 refs/heads/issue-153/remove-basket-items-if-basket-deleted
+ce20b08e7d9df72afd333f72a553e4c46da38d0a refs/heads/master
+3bf14540255c28a6929bc3bad8b65ffc83d832d0 refs/heads/netcore2.0
+549baab9791e74877eebcbf7901c96a2741fdd39 refs/heads/netcore2.1
+1f05543ec824f977749b2701dca0a8f24f2b18a7 refs/heads/netcore3.0
+f2435f435db3b6eab787a8332d390a5aa989c43e refs/heads/return-error-to-user-from-ApplicationCore
+0f611d06529b000733149fc27e46313e8253e5a4 refs/heads/selenium
+f8fe5a139c2b8159fce1a3ce25a7f7c8aa66907e refs/heads/working-with-solution
+26a43cd4ad7995da892e00e6c1bfe0e0a3734cf5 refs/tags/eShopOnWeb-1.0
+26a43cd4ad7995da892e00e6c1bfe0e0a3734cf5 refs/tags/netcore1.1
+8bf2a7ade177e49003b46e1ae29315e1a8202dc3 refs/tags/netcore2.1
+9a21db6979da339c109d717fe3809bbaa8555400 refs/tags/netcore2.2
